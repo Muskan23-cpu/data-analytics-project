@@ -36,8 +36,23 @@ The dashboard contains 5 pages:
 5. **Ratings** – Rating and performance analysis
 
 ## 📈 Dashboard Preview
+### Dashboard Preview
 
-![Overall Dashboard](IMAGES/overall.png)
+#### Overall Dashboard
+![Overall Dashboard](IMAGES/overall_dashboard.png)
+
+#### Vehicle Type Analysis
+![Vehicle Type Dashboard](IMAGES/vehicle_type_dashboard.png)
+
+#### Revenue Analysis
+![Revenue Dashboard](IMAGES/revenue_dashboard.png)
+
+#### Cancellation Analysis
+![Cancellation Dashboard](IMAGES/cancellation_dashboard.png)
+
+#### Ratings Analysis
+![Ratings Dashboard](IMAGES/ratings_dashboard.png)
+
 
 ## 🎯 Skills Demonstrated
 
